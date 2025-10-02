@@ -13,7 +13,7 @@
 <main class="blur-panel vignette">
      <div id="cake">
           <div id="table">
-               <img id="caake" on:click={()=>{setTimeout(() =>{window.location.href='/#/cake'})}} class="glow image-glow" src="{cake}"/>
+               <img id="caake" on:click={()=>{setTimeout(() =>{window.location.href='/tiyasadi/#/cake'})}} class="glow image-glow" src="{cake}"/>
                <img id="hat" class="glow image-glow" src="{hat}"/>
                <img id="ballon" class="glow image-glow" src="{ballon}"/>
                <img id="ballon2" class="glow image-glow" src="{star}"/>
