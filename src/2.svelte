@@ -42,7 +42,7 @@
                <span id="sub">(click to open gift)</span>
                <span id="hed"> O-O </span>
                <span id="hedsub">click on the giftttyay (=ω=)</span>
-               <img id="gift" on:click={()=>{setTimeout(() =>{window.location.href='tiyasadi/#/gift'})}} class="glow image-glow" src="{gift}"/>
+               <img id="gift" on:click={()=>{setTimeout(() =>{window.location.href='/tiyasadi/#/gift'})}} class="glow image-glow" src="{gift}"/>
                {/if}
 
 
